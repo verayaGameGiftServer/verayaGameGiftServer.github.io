@@ -1,1 +1,1 @@
-server.gift;skingift:PartyHat:858;
+server.gift;skingift:PartyHat;
