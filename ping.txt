@@ -1,2 +1,1 @@
-server.gift;
-test: testing;
+server.gift;test:testing;
