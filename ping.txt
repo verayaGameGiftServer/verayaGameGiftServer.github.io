@@ -1,2 +1,2 @@
-;server.gift;
+server.gift;
 ;test:testing;
